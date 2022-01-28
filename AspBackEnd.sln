@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspBackEnd", "AspBackEnd\AspBackEnd.csproj", "{B6777271-24A9-430F-BB3A-3EAF1F2475FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6777271-24A9-430F-BB3A-3EAF1F2475FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6777271-24A9-430F-BB3A-3EAF1F2475FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6777271-24A9-430F-BB3A-3EAF1F2475FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6777271-24A9-430F-BB3A-3EAF1F2475FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD21E8DB-07CD-4018-8563-FB6C97A284FB}
+	EndGlobalSection
+EndGlobal
