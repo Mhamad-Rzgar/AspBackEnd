@@ -99,6 +99,5 @@ namespace AspBackEnd.Controllers {
         //    imageName = imageName + DateTime.Now.ToString("yymmssfff") + Path.GetExtension(imageFile.FileName);
 
         //}
-
     }
 }
