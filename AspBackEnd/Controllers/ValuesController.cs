@@ -21,7 +21,7 @@ namespace AspBackEnd.Controllers {
         [HttpGet]
         public JsonResult Get() {
             //String qurey = @"select * from mytestdb.dbo.image"; 
-            String qurey = @"SELECT TOP 1 * FROM[mytestdb].[dbo].[image] ORDER BY[imageId] DESC"; 
+            String qurey = @"SELECT TOP 1 * FROM[mytestdb].[dbo].[image] ORDER BY[imageId] DESC";
 
 
            String _sqldataSourse = _configuration.GetConnectionString("AspSqlServerCon");
